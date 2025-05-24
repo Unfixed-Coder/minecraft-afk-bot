@@ -6,7 +6,7 @@ const mineflayer = require('mineflayer');
 // Bot Configuration
 const botOptions = {
   host: 'lifestealevo.aternos.me', // Server IP
-  port: 47881,               // Server Port
+  port: 25565,               // Server Port
   username: 'EVO_BOT',       // Bot Username
   auth: 'offline'            // 'microsoft' for official servers
 };
