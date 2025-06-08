@@ -7,8 +7,8 @@ const express = require('express');
 
 // 🔧 Bot Config
 const botOptions = {
-  host: 'lifestealevo.aternos.me',
-  port: 47881, // Your actual server port from Aternos
+  host: 'economyevo.aternos.me',
+  port: 64928, // Your actual server port from Aternos
   username: 'EVO_BOT',
   auth: 'offline' // Use 'microsoft' if using a premium account
   version: '1.20.1'
