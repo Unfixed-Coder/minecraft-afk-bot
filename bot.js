@@ -11,6 +11,7 @@ const botOptions = {
   port: 47881, // Your actual server port from Aternos
   username: 'EVO_BOT',
   auth: 'offline' // Use 'microsoft' if using a premium account
+  version: '1.20.1'
 };
 
 let bot;
