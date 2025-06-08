@@ -10,7 +10,7 @@ const botOptions = {
   host: 'economyevo.aternos.me',
   port: 64928, // Your actual server port from Aternos
   username: 'EVO_BOT',
-  auth: 'offline' // Use 'microsoft' if using a premium account
+  auth: 'offline', // Use 'microsoft' if using a premium account
   version: '1.20.1'
 };
 
